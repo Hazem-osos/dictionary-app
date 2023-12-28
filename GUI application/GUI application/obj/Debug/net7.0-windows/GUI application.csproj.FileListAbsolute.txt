@@ -1,0 +1,16 @@
+C:\Users\kiing\source\repos\GUI application\GUI application\bin\Debug\net7.0-windows\GUI application.exe
+C:\Users\kiing\source\repos\GUI application\GUI application\bin\Debug\net7.0-windows\GUI application.deps.json
+C:\Users\kiing\source\repos\GUI application\GUI application\bin\Debug\net7.0-windows\GUI application.runtimeconfig.json
+C:\Users\kiing\source\repos\GUI application\GUI application\bin\Debug\net7.0-windows\GUI application.dll
+C:\Users\kiing\source\repos\GUI application\GUI application\bin\Debug\net7.0-windows\GUI application.pdb
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI_application.Form1.resources
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI application.csproj.GenerateResource.cache
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI application.AssemblyInfoInputs.cache
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI application.AssemblyInfo.cs
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI application.csproj.CoreCompileInputs.cache
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI application.dll
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\refint\GUI application.dll
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI application.pdb
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\GUI application.genruntimeconfig.cache
+C:\Users\kiing\source\repos\GUI application\GUI application\obj\Debug\net7.0-windows\ref\GUI application.dll
